@@ -1,2 +1,3 @@
 # LOGICA
 Elucubraciones sobre logica y programacion
+No tengo idea de como va esto, pero ire aprendiendo ...
